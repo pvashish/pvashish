@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pvashish
+- 👋 Hi, I’m Pranavi
 - 👀 I’m interested in unsupervised and supervised deep learning 
 - 🌱 I’m currently learning to code reinforcement learning algorithms
 - 💞️ I’m looking to collaborate on any machine learning projects
