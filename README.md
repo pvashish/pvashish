@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pvashish
-- 👀 I’m interested in unsupervised and supervised learning 
+- 👀 I’m interested in unsupervised and supervised deep learning 
 - 🌱 I’m currently learning to code reinforcement learning algorithms
 - 💞️ I’m looking to collaborate on any machine learning projects
 - 📫 How to reach me on ➡️ https://www.linkedin.com/in/pranavi-vashishtha-270412182/
