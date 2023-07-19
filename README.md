@@ -36,7 +36,7 @@
         From image classification and object detection to semantic segmentation and style transfer, I've developed deep learning models for a wide range of visual recognition tasks.
       </td>
       <td width="50%">
-        <b>Text Analytics</b><br>
+        <b>Large Language Models</b><br>
         Explore my projects that delve into natural language processing, including sentiment analysis, text classification, and language generation using state-of-the-art models.
       </td>
     </tr>
